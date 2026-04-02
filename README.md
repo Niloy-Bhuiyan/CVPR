@@ -1,4 +1,4 @@
-# 🎯 CVPR Midterm Assignment — SVHN Classification with CNN
+## CVPR Midterm Assignment - SVHN Classification with CNN
 
 **📘 Course:** Computer Vision and Pattern Recognition (CVPR)  
 **👤 Student Name:** Nurul Azam Bhuiyan  
