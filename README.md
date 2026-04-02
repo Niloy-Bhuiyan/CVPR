@@ -24,7 +24,7 @@ The models are evaluated using multiple performance metrics, visualizations, and
 
 ## 🗂️ Dataset
 
-**SVHN (Street View House Numbers)** is a real-world image dataset containing cropped house-number digits collected from street-view images.
+**SVHN  (Street View House Numbers)** is a real-world image dataset containing cropped house-number digits collected from street-view images.
 
 ### ✨ Key Characteristics
 - 🌈 Colored digit images
