@@ -3,7 +3,7 @@
 **📘 Course:** Computer Vision and Pattern Recognition (CVPR)  
 **👤 Student Name:** Nurul Azam Bhuiyan  
 **🆔 Student ID:** 23-50020-1  
-**🏫 Section:** P  
+**🏫 Section:** C  
 **⚙️ Framework:** PyTorch  
 **📂 Dataset:** SVHN (Street View House Numbers)
 
